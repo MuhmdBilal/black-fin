@@ -1,0 +1,16 @@
+.UNITED-h2{
+    color: #000000;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 32px;
+    font-weight: 500;
+
+}
+.ALASKA-h4{
+    font-weight: bolder;
+    font-family: Montserrat, sans-serif;
+}
+.Anchorage-h6{
+    color: #444343;
+    font-size: 19px;
+    /* line-height: 20%; */
+}

@@ -1,0 +1,68 @@
+.elementor-shape-fill {
+    fill: #fff !important;
+    transform-origin: center;
+    transform: rotateY(0deg);
+    transform: rotateX(180deg);
+    display: flex;
+    flex-direction: column !important;
+}
+.ACCOUNT-h2{
+    color: #FFFFFF;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 42px;
+    font-weight: 600;
+    text-transform: uppercase;
+    text-shadow: 0px 0px 10px rgb(0 0 0 / 30%);
+}
+.WELCOME-h4{
+    color: #303179;
+    font-family: "Montserrat", Sans-serif;
+    font-weight: 500;
+    text-transform: uppercase;
+    line-height: 1.2em;
+    text-align: left;
+    font-size: 36px;
+}
+.Ourp{
+    color: #000000;
+    font-family: "Montserrat", Sans-serif;
+    font-weight: 500;
+    text-align: left;
+}
+.pleasure-span{
+    color: #c36;
+}
+.OurpIf{
+    color: #000000;
+    font-family: "Montserrat", Sans-serif;
+    font-weight: 700;
+    text-align: left;
+}
+#website-span{
+    font-size: 15px;
+    color: #191919;
+}
+.btn-got{
+    background-color: transparent;
+    border: 1px solid black;
+    border-radius: 0;
+}
+.btn-got:hover{
+    background-color: black;
+    border: 1px solid rgb(255, 255, 255);
+    color: #fff;
+    border-radius: 0;
+}
+.Reservation-span{
+    color: #303179;
+    font-weight: 600;
+}
+.Worldwide-h3{
+    color: #303179;
+    font-family: "Roboto", Sans-serif;
+    font-size: 23px;
+    font-weight: bold;
+    font-style: italic;
+    line-height: 1.2em;
+    text-align: left;
+}

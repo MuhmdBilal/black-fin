@@ -1,0 +1,63 @@
+.testmonial-text{
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-color: #DDDDDD;
+    box-shadow: 0px 0px 20px 0px rgb(0 0 0 / 30%);
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    padding: 20px 20px 20px 20px;
+    background-color: #fae5df;
+}
+.text-super{
+    color: #000000;
+    font-family: "Roboto", Sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+}
+#Kirk{
+    color: #1376BC;
+    font-size: 18px;
+}
+#Oakland{
+    color: #141850;
+    font-size: 18px;
+}
+.Reviews-text{
+    color: #303179;
+    font-family: "Roboto", Sans-serif;
+    font-size: 21px;
+    font-weight: 600;
+    text-transform: capitalize;
+    cursor: pointer;
+}
+.message-h3{
+    color: #000000;
+    font-family: "Montserrat", Sans-serif;
+    font-weight: 600;
+    text-transform: capitalize;
+}
+.youtube-box{
+    background-color: #cd201f;
+    width: 60px;
+    height: 60px;
+    border-radius: 5px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Whether-p{
+    color: #222222;
+    font-size: 19px;
+}
+.image-w{
+    height: 300px;
+}
+
+.Private-h3{
+    color: #000000;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+}

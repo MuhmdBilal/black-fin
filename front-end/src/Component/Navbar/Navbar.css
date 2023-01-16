@@ -1,0 +1,363 @@
+/* .dropdown-menu[data-bs-popper] {
+    top: 100%;
+    left: 293px;
+    
+} */
+.backgroundiamge{
+    background-image: url("../../Assets/main-bg.webp");
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 78vh;
+    /* position: absolute; */
+    top: 0;
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: #000000;
+    opacity: 2;
+}
+.backgroundiamge-account{
+    background-image: url("../../Assets/account-access.webp");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 75vh;
+    /* position: absolute; */
+    /* top: 0; */
+    
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: end;
+    bottom: 0;
+    background-color: #000000;
+    opacity: 2;
+}
+.backgroundiamge-testimonials{
+    background-image: url("../../Assets/urban-worldwide-reviews.webp");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 75vh;
+    /* position: absolute; */
+    /* top: 0; */
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: end;
+    bottom: 0;
+    background-color: #000000;
+    opacity: 2; 
+}
+.backgroundiamge-faqs{
+    background-image: url("../../Assets/private-aviation-network-bg-1280.webp");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 75vh;
+    /* position: absolute; */
+    /* top: 0; */
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: end;
+    bottom: 0;
+    background-color: #000000;
+    opacity: 2;  
+}
+.backgroundiamge-Aboutus{
+    background-image: url("../../Assets/History-header-F2.webp");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 75vh;
+    /* position: absolute; */
+    /* top: 0; */
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: end;
+    bottom: 0;
+    background-color: #000000;
+    opacity: 2;  
+}
+.backgroundiamge-francisco{
+    background-image: url("../../Assets/San-Francisco-Car-Service.webp");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 75vh;
+    /* position: absolute; */
+    /* top: 0; */
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: end;
+    bottom: 0;
+    background-color: #000000;
+    opacity: 2; 
+}
+.backgroundiamge-angeles{
+    background-image: url("../../Assets/Urban-Worldwide-LA.webp");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 75vh;
+    /* position: absolute; */
+    /* top: 0; */
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: end;
+    bottom: 0;
+    background-color: #000000;
+    opacity: 2; 
+}
+.backgroundiamge-hawaii{
+    background-image: url("../../Assets/Hawaii-Header.webp");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 75vh;
+    /* position: absolute; */
+    /* top: 0; */
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: end;
+    bottom: 0;
+    background-color: #000000;
+    opacity: 2; 
+}
+
+.backgroundiamge-alllocation{
+    background-image: url("../../Assets/our-history.webp");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 75vh;
+    /* position: absolute; */
+    /* top: 0; */
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: end;
+    bottom: 0;
+    background-color: #000000;
+    opacity: 2;
+}
+.backgroundiamge-carservices{
+    background-image: url("../../Assets/corporate-travel-img.webp");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 75vh;
+    /* position: absolute; */
+    /* top: 0; */
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: end;
+    bottom: 0;
+    background-color: #000000;
+    opacity: 2;
+}
+.backgroundiamge-businesservices{
+    background-image: url("../../Assets/Corporate-Transportation.webp");
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 75vh;
+    /* position: absolute; */
+    /* top: 0; */
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: end;
+    bottom: 0;
+    background-color: #000000;
+    opacity: 2;  
+}
+.backgroundiamge-privateservices{
+    /* leisure-experiences-bg2 */
+    background-image: url("../../Assets/leisure-experiences-bg2.webp");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 75vh;
+    /* position: absolute; */
+    /* top: 0; */
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: end;
+    bottom: 0;
+    background-color: #000000;
+    opacity: 2; 
+}
+.backgroundiamge-pointtopoint{
+    background-image: url("../../Assets/Website-Header-Images-1200-×-400-px-1.webp");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 75vh;
+    /* position: absolute; */
+    /* top: 0; */
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: end;
+    bottom: 0;
+    background-color: #000000;
+    opacity: 2; 
+}
+.backgroundiamge-prom{
+    background-image: url("../../Assets/Prom-Limousine.webp");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 75vh;
+    /* position: absolute; */
+    /* top: 0; */
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: end;
+    bottom: 0;
+    background-color: #000000;
+    opacity: 2;  
+}
+.backgroundiamge-sanairport{
+    background-image: url("../../Assets/urban-airport-transfers-3.webp");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 75vh;
+    /* position: absolute; */
+    /* top: 0; */
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: end;
+    bottom: 0;
+    background-color: #000000;
+    opacity: 2;
+}
+.backgroundiamge-wedding{
+    background-image: url("../../Assets/Wedding-Transportation.webp");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 75vh;
+    /* position: absolute; */
+    /* top: 0; */
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: end;
+    bottom: 0;
+    background-color: #000000;
+    opacity: 2; 
+}
+.backgroundiamge-hnl_airport{
+    background-image: url("../../Assets/HNL-Airport.webp");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 75vh;
+    /* position: absolute; */
+    /* top: 0; */
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: end;
+    bottom: 0;
+    background-color: #000000;
+    opacity: 2; 
+}
+.dropdown-menu{
+    /* border: 2px solid red; */
+    background-color: #000000D6 !important;
+    
+    
+}
+.dropdown-item{
+    color: rgb(255, 255, 255) !important;
+    padding: 10px 10px !important;
+    /* background-color: #43ABFF; */
+}
+.dropdown-item:hover{
+    color: white !important;
+    background-color: #43ABFF !important;
+    
+}
+.dropdown-item-active{
+    color: white !important;
+    background-color: #43ABFF !important;
+    width: 100% !important; 
+}
+.btn-make{
+    font-family: "Roboto", Sans-serif !important;
+    font-size: 14px !important;
+    font-weight: 400 !important;
+    text-transform: uppercase !important;
+    background-color: #61CE7000 !important;
+    border: 1px solid #ed7966  !important;
+    color: rgb(0, 0, 0) !important;
+    fill: #fff !important;
+    border-radius: 100px 100px 100px 100px !important;
+    padding: 10px 20px !important;
+}
+.btn-make:hover{
+    font-family: "Roboto", Sans-serif !important;
+    font-size: 14px !important;
+    font-weight: 400 !important;
+    text-transform: uppercase !important;
+    background-color: #ed7966  !important;
+    border: 1px solid white !important;
+    color: #fff !important;
+    fill: #fff !important;
+    border-radius: 100px 100px 100px 100px !important;
+}
+
+.text-a{
+    color: #000000 !important;
+    fill: #FFFFFF !important;
+    font-family: "Roboto", Sans-serif !important;
+    font-size: 16px !important;
+    font-weight: 600 !important;
+    text-transform: uppercase;
+}
+.text-a:hover{
+    color: #ed7966 !important;
+    fill: #FFFFFF !important;
+    font-family: "Roboto", Sans-serif !important;
+    font-size: 16px !important;
+    font-weight: 600 !important;
+    text-transform: uppercase !important;
+}
+.text-a-active{
+    color: #ed7966 !important;
+    fill: #FFFFFF !important;
+    font-family: "Roboto", Sans-serif !important;
+    font-size: 16px !important;
+    font-weight: 600 !important;
+    text-transform: uppercase !important;
+}
+.navbar-toggler-icon{
+    color: white !important;
+}
+
+.sub-menu-2{
+    display: none;
+}
+
+.hover-me:hover .sub-menu-2{
+    position:absolute;
+    display: block;
+    margin-top: -40px;
+    left: 243px;
+    background-color: #000000D6;
+}
